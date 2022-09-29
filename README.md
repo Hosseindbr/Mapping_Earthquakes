@@ -24,6 +24,10 @@ Also, the following figure shows the Dark view with ectonic plates and  major ea
 
 <img width="1439" alt="Screen Shot 2022-09-29 at 2 55 41 AM" src="https://user-images.githubusercontent.com/108313440/192961585-9e12976e-db87-4100-a361-a0b6a9144d4f.png">
 
+## Link to Interactive Maps webpage
+
+The deployed webpage is accessible at 
+
 
 
 
