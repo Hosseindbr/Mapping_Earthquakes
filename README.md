@@ -27,6 +27,7 @@ Also, the following figure shows the Dark view with ectonic plates and  major ea
 ## Link to Interactive Maps webpage
 
 The deployed webpage is accessible at 
+https://hosseindbr.github.io/Mapping_Earthquakes/
 
 
 
